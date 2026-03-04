@@ -9,5 +9,4 @@ public class SonicaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SonicaApplication.class, args);
 	}
-
 }
