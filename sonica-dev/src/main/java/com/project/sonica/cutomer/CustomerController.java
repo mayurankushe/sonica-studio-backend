@@ -1,4 +1,4 @@
-package com.project.sonica.controller;
+package com.project.sonica.cutomer;
 
 import java.util.List;
 import java.util.stream.Collectors;
